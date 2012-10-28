@@ -4283,8 +4283,9 @@ VERSIONS
 )
 "List holding the values for roman numerals. Extend as needed.")
 
-;;; provide mode
+;;; provide feature
 (provide 'imdb-adds)
+(provide 'imdb-adds-mode)
 
 ;;; imdb-adds-mode.el ends here
 
