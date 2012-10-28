@@ -37,6 +37,8 @@
 ;;; the Free Software Foundation, 675 Massachusettes Ave,
 ;;; Cambridge, MA 02139, USA.
 
+;;; Commentary:
+
 ;;; WHO SHOULD USE OR NEEDS THIS MODE?
 ;;; - This mode is for editing data additions for the Internet Movie
 ;;;   Database (IMDb). It's for people who submit such additions
@@ -138,6 +140,8 @@
 ;;; - Please let me know if you have written a cute extension
 ;;;   for this mode and I'll incorporate it into the next release.
 ;;;
+
+;;; Code:
 
 (require 'easymenu)  ;; needed for XEmacs
 
